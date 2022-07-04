@@ -1,0 +1,59 @@
+= NightholdCore -- Thanks/credits file =
+
+NightholdCore is a derivation/rewrite of Trinity, which was originally written
+by Team Python and the WoW Daemon Team. Many people further helped Trinity Core
+by submitting bug reports, code patches, and suggestions.
+
+Thanks to the community!
+
+Thanks too for other projects that give us inspiration and code that we
+can adapt for our project and fixes that help us reach our goal of making
+the best Legion Emulator.
+
+Thanks to the following teams and devs:
+
+- Mangos (https://www.getmangos.eu/)
+- Trinitycore (https://www.trinitycore.org/)
+- Scriptdev2 (https://github.com/scriptdev2/scriptdev2)
+- UWow (https://uwow.biz/)
+- AshamaneCore (https://github.com/AshamaneProject/AshamaneCore)
+- Azerothcore (https://www.azerothcore.org/)
+- LegionCore 7.3.5 (https://github.com/dufernst/LegionCore-7.3.5)
+- Project Skyfire (https://github.com/ProjectSkyfire)
+- Nordrassil Team
+
+I want to add a big Thanks to my personal friend *Morfium*, she always helped me to fix the most
+hard things on the code and is actively helping me to learn more and more of wow programming.
+
+And to other contributors too:
+
+- Stevej (Walter Pagani)
+
+We want to add thanks too for people that have scripts on the core, some of them are not well
+regarded by the open source community of wow, even if some of them steal code or sell it, they
+contributed in some scripts or fixes on this core, even if its not much.
+
+That doesnt mean we are ok with code stealing of selling the code but we need to recognize the
+work of other even if we dont agree on their methods
+
+- Cooler-Sai (https://github.com/cooler-SAI)
+- Millenium-Studio
+- Haloperidolum
+- Fluxurion
+- NumboWoW
+- Bans
+- Elgrimm
+- Aphelios
+
+If You see a script or code that is yours and dont have proper mentioning on this thanks file,
+contact us to rectify, this core passed down in many hands for so much time that a lot of
+credits and thanks are not mentioned on it.
+
+And finally thanks to Thordekk, without him selling me the code and showing me his lack of guilt
+for stealing code from others, probably i wouldnt knew that he asked help to a lot of other open
+source devs to fix things and share scripts and didnt give them credit or part of the money he
+get from their code.
+
+Special thanks should go out to the NightholdCore team, Keep up the good work guys.
+
+Robert Icebear (https://github.com/LordArcanine)
